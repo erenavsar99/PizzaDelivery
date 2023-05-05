@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InfosetPizza", "InfosetPizza\InfosetPizza.csproj", "{0FE4C81B-F4AB-426A-8382-046E1FCD3DF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FE4C81B-F4AB-426A-8382-046E1FCD3DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE4C81B-F4AB-426A-8382-046E1FCD3DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE4C81B-F4AB-426A-8382-046E1FCD3DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE4C81B-F4AB-426A-8382-046E1FCD3DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38D41F28-B492-4A28-B78B-2E24918F27D1}
+	EndGlobalSection
+EndGlobal
